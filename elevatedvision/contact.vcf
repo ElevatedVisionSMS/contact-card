@@ -7,10 +7,6 @@ TITLE:Marketing Director
 TEL;TYPE=CELL,VOICE,PREF:+13057713335
 EMAIL;TYPE=INTERNET,WORK,PREF:elayne@elevatedvision.today
 URL:https://elevatedvision.today
-X-SOCIALPROFILE;TYPE=instagram:https://instagram.com/elevatedvisionsms
-X-SOCIALPROFILE;TYPE=linkedin:https://linkedin.com/company/elevated-vision-sms
-X-SOCIALPROFILE;TYPE=google-business:https://share.google/Crc5jwDkcOqBBwTRI
-X-SOCIALPROFILE;TYPE=cashapp:https://cash.app/ElevatedVisionSMS
 NOTE:Simplified AI & digital marketing solutions that help businesses grow\, automate & win.\n\nBusiness Formation | Branding | Website & SEO | Social Campaigns | Digital Signage | AI Visibility
 PHOTO;ENCODING=b;TYPE=JPEG:/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAYEBQYFBAYGB
  QYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoK
@@ -223,4 +219,12 @@ PHOTO;ENCODING=b;TYPE=JPEG:/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAYEBQYFBAYGB
  mxq90tFRWVmnGuhcaeCKaOpcCPADoNz+fUtVg0tPb6MW92lYq+rjHJxVza0shkHQ97d7eacc
  4A8ylJE2NJgtFfpi4Q1Vot0dbSy0sdNUUtM8RmJ7CSHs3zxad4jBOV3WKmvE+taq73OhbR00
  tA2CKPlA9zMSE4cR+keJ4cBwC3BE2CIiD//2Q==
+item1.URL:https://instagram.com/elevatedvisionsms
+item1.X-ABLabel:Instagram
+item2.URL:https://linkedin.com/company/elevated-vision-sms
+item2.X-ABLabel:LinkedIn
+item3.URL:https://share.google/Crc5jwDkcOqBBwTRI
+item3.X-ABLabel:Google Business Profile
+item4.URL:https://cash.app/ElevatedVisionSMS
+item4.X-ABLabel:Cash App
 END:VCARD
